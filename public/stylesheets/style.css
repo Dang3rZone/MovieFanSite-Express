@@ -14,7 +14,8 @@ a {
 .poster img {
   width: 90%;
   text-align: center;
-  margin: 10px 5% 10px;
+  margin: 5px;
+  border-radius: 15px;
 }
 
 #search-form input {
@@ -28,7 +29,7 @@ a {
 
 .single-movie-title,
 .overview-header {
-  font-family: 'Metamorphous', cursive;
+  font-family: 'Poppins', cursive;
 }
 
 .overview-header {
@@ -37,7 +38,7 @@ a {
 }
 
 .single-movie-overview {
-  font-family: 'Swanky and Moo Moo', cursive;
+  font-family: 'Poppins', cursive;
   font-size: 24px;
   font-weight: normal;
 }
