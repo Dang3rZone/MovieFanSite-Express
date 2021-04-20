@@ -18,6 +18,12 @@ a {
   border-radius: 15px;
 }
 
+.moviepic {
+  text-align: center;
+  border-radius: 15px;
+  margin-bottom: 3rem;
+}
+
 #search-form input {
   margin: 8px 0px;
   padding: 5px;
